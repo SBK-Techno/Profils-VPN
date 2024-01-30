@@ -1,2 +1,1 @@
-add 192.168.0.0 mask 255.255.255.0 default metric default if default
 add 192.168.88.0 mask 255.255.255.0 default metric default if default
